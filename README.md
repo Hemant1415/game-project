@@ -14,7 +14,7 @@ This Flask application is designed for a game project, integrating user authenti
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-![SQLAlchemy](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/SQLAlchemy_logo.svg/200px-SQLAlchemy_logo.svg.png)
+![SQLAlchemy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SQLAlchemy_logo.svg/200px-SQLAlchemy_logo.svg)
 
 ## Features
 
@@ -27,9 +27,9 @@ This Flask application is designed for a game project, integrating user authenti
 
 ### Tic Tac Toe Game Animation
 
-![Tic Tac Toe Game Animation](https://upload.wikimedia.org/wikipedia/commons/e/ea/Tic_Tac_Toe.gif)
+![Tic Tac Toe Game Animation](https://media.giphy.com/media/XeX7mlFCeZkLW/giphy.gif)
 
-*Source: [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)*
+*Source: Giphy*
 
 ## Installation
 
